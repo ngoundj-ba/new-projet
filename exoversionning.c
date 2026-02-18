@@ -18,7 +18,9 @@ int main(){
     }
     moy=somme/cpt;
     if(moy%2==0) {
+        printf("moyenne des nombres pairs est : %f",moy);
 
+    }
 
     }
 
